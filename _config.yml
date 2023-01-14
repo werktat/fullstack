@@ -1,1 +1,5 @@
 remote_theme: werktat/bruno
+
+collections:
+  chapters:
+    output: true
